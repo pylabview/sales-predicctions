@@ -205,7 +205,11 @@ OUT010     |        1998         |                 339.351662
   >- Item_Weight, Item_Visibility
 - What effect does having more visibility have on predicted price?
   >- Decreases home value by ~$220
-  
+
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/Linear_Regression_Coefficients.png">
+</p>
+
 ### Random Forest Summary
 - What features made the model predict a higher price?
 >  - Item_MRP, Item_Visibility, Item_Weight
@@ -213,6 +217,9 @@ OUT010     |        1998         |                 339.351662
 - Which feature made the model predict a lower price?
 >  - None
 
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/Random_Forest_Coefficients.png">
+</p>
 
 
 
