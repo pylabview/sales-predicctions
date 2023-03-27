@@ -196,6 +196,23 @@ OUT010     |        1998         |                 339.351662
 >I recommend using the Random Forest, which has the best Testing Score (R^2) of `0.5946849`. This model still has some bias. However, this model performs best on the testing set with LOW Variance.
 >Food Type, Retail Price, and Establishment Year indicated having more effect in the Stores sales
 
+## Revisited: Importances and Coefficients
+### Linear Regresion Summary
+- What features made the model predict a higher price?
+  >- Item_MRP
+
+- Which feature made the model predict a lower price?
+  >- Item_Weight, Item_Visibility
+- What effect does having more visibility have on predicted price?
+  >- Decreases home value by ~$220
+  
+### Random Forest Summary
+- What features made the model predict a higher price?
+>  - Item_MRP, Item_Visibility, Item_Weight
+
+- Which feature made the model predict a lower price?
+>  - None
+
 
 
 
