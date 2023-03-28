@@ -221,5 +221,8 @@ OUT010     |        1998         |                 339.351662
   <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/Random_Forest_Coefficients.png">
 </p>
 
+### Global Explanations
+
+### Local Explanations
 
 
