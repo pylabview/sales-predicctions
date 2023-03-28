@@ -222,7 +222,25 @@ OUT010     |        1998         |                 339.351662
 </p>
 
 ### Global Explanations
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/global_bar.png">
+</p>
+
+
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/global_dot.png">
+</p>
 
 ### Local Explanations
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/rf_individual.png">
+</p>
+
+
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/Lime.png">
+</p>
+
+
 
 
