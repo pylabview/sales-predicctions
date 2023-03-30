@@ -231,16 +231,23 @@ OUT010     |        1998         |                 339.351662
   <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/global_dot.png">
 </p>
 
+#### Shape Summary
+- MRP
+> The higher the MRP increase the likehood of predicting item sales
+
+- Visibility:
+> The smaller the visibilty, the model likehood decrease in sales prediction 
+
 ### Local Explanations
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/rf_individual.png">
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/sharp_ind.png">
 </p>
 
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/Lime.png">
+  <img src = "https://raw.githubusercontent.com/pylabview/sales-predicctions/main/rf_sharp_Light.png">
 </p>
 
 
-
+> For the item ```431th```, The MRP has a stronge correlation to predict the target vaue: Outlet sales.
 
